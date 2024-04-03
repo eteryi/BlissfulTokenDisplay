@@ -1,0 +1,6 @@
+name: BlissfulTokenDisplay
+version: '${project.version}'
+main: dev.cross.tokendisplay.BlissfulTokenDisplay
+api-version: '1.20'
+depend:
+  - BlissfulAPI
