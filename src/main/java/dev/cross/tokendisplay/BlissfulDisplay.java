@@ -2,12 +2,8 @@ package dev.cross.tokendisplay;
 
 import dev.cross.blissfulcore.api.BlissfulAPI;
 import dev.cross.blissfulcore.api.BlissfulTeams;
-import dev.cross.blissfulcore.ui.BColors;
 import dev.cross.blissfulcore.ui.bossbar.SimpleBossBar;
 import dev.cross.blissfulcore.ui.utils.StringFormatter;
-import net.kyori.adventure.text.Component;
-import net.kyori.adventure.text.format.TextDecoration;
-import net.kyori.adventure.text.serializer.bungeecord.BungeeComponentSerializer;
 import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.chat.BaseComponent;
 import net.md_5.bungee.api.chat.TextComponent;
